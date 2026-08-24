@@ -1,0 +1,8 @@
+{
+  "name": "Identity AI Startup Dashboard",
+  "description": "Comprehensive post-seed execution dashboard for Identity AI (IAI-101) covering corporate setup, payroll, benefits, compliance, executive RACI mapping, 2-to-55 hiring plan, and 9-product roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
